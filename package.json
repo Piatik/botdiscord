@@ -1,0 +1,12 @@
+{
+  "name": "Bot",
+  "version": "0.1.0",
+  "description": "Bot Discord",
+  "main": "main.js",
+  "repository": "https://github.com/Piatik/botdiscord.git",
+  "author": "Piatik Piatik <piatik.yt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
